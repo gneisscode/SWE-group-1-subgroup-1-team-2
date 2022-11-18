@@ -74,6 +74,10 @@ section {
   color: black;
   line-height: 2em;
 }
+
+.emmai ul{
+    padding: 0 2em;
+}
 .emmai h4 {
   text-align: center;
   font-weight: 900;
