@@ -92,7 +92,7 @@ section {
   padding: 1rem .5rem;
   color: black;
   line-height: 1.6rem;
-  font-family: 'Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Tahoma, Geneva, Verdana, sans-serif;'
 }
 
 .emmaa > h4 {
@@ -153,8 +153,12 @@ section {
   padding: 0.1em 0 0 1em;
   line-height: 2em;
 }
+.monica ul{
+    padding: 1em;
+}
 
 .monica h3{
+  text-align: center;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', sans-serif;
   color: black;
 }
