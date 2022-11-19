@@ -46,6 +46,17 @@ header p {
   border: none;
 }
 
+.footer__btn {
+  background-color: #66adf6;
+  color: white;
+  font-weight: 900;
+  border-radius: 2.5px;
+  width: 120px;
+  height: 30px;
+  border: none;
+  margin: 1rem;
+}
+
 main {
   display: flex;
   flex-direction: column;
@@ -63,6 +74,7 @@ section {
   justify-content: center;
   gap: 2em;
 }
+
 
 .emmai {
   width: 250px;
@@ -82,6 +94,7 @@ section {
   text-align: center;
   font-weight: 900;
 }
+
 
 .emmaa {
   width: 250px;
@@ -113,7 +126,6 @@ section {
 }
 
 
-
 .eunice {
   width: 250px;
   height: 250px;
@@ -134,16 +146,6 @@ section {
   padding: 0 2em;
 }
 
-.footer__btn {
-  background-color: #66adf6;
-  color: white;
-  font-weight: 900;
-  border-radius: 2.5px;
-  width: 120px;
-  height: 30px;
-  border: none;
-}
-
 .monica{
   width: 250px;
   height: 250px;
@@ -153,6 +155,7 @@ section {
   padding: 0.1em 0 0 1em;
   line-height: 2em;
 }
+
 .monica ul{
     padding: 1em;
 }
@@ -162,6 +165,7 @@ section {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', sans-serif;
   color: black;
 }
+
 
 .chinedu{
   width: 250px;
@@ -180,3 +184,30 @@ section {
   font-weight: 900;
 }
 
+
+.nneka {
+  width: 250px;
+  height: 250px;
+  font-size: 16px;
+  background-color: orange;
+  border: 2px solid greenyellow;
+  padding: 1rem .2rem;
+  color: black;
+  line-height: 1.5rem;
+  font-family: 'Poppins', 'Inter';
+}
+
+.nneka h3 {
+  text-align: center;
+  font-weight: 800;
+  margin-bottom: 1rem;
+}
+
+.nneka ul {
+  padding: 0 2rem;
+}
+
+.nneka li {
+  font-weight: 400;
+  margin-bottom: 0.5rem;
+}
