@@ -83,6 +83,37 @@ section {
   font-weight: 900;
 }
 
+.emmaa {
+  width: 250px;
+  height: 250px;
+  font-size: 14px;
+  background-color: skyblue;
+  border: 2px solid white;
+  padding: 1rem .5rem;
+  color: black;
+  line-height: 1.6rem;
+  font-family: 'Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.emmaa > h4 {
+  text-align: center;
+  font-weight: 800;
+  margin-bottom: 1rem;
+  
+}
+
+.emmaa > ul {
+  padding: 0 2rem;
+  
+}
+
+.emmaa > ul > li {
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+}
+
+
+
 .eunice {
   width: 250px;
   height: 250px;
@@ -113,6 +144,21 @@ section {
   border: none;
 }
 
+.monica{
+  width: 250px;
+  height: 250px;
+  font-size: 15px;
+  background-color: olivedrab;
+  border: solid 2px hsl(0, 0%, 50%);
+  padding: 0.1em 0 0 1em;
+  line-height: 2em;
+}
+
+.monica h3{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', sans-serif;
+  color: black;
+}
+
 .chinedu{
   width: 250px;
   height: 250px;
@@ -129,3 +175,4 @@ section {
   text-align: center;
   font-weight: 900;
 }
+
