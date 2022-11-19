@@ -144,6 +144,21 @@ section {
   border: none;
 }
 
+.monica{
+  width: 250px;
+  height: 250px;
+  font-size: 15px;
+  background-color: olivedrab;
+  border: solid 2px hsl(0, 0%, 50%);
+  padding: 0.1em 0 0 1em;
+  line-height: 2em;
+}
+
+.monica h3{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', sans-serif;
+  color: black;
+}
+
 .chinedu{
   width: 250px;
   height: 250px;
@@ -160,3 +175,4 @@ section {
   text-align: center;
   font-weight: 900;
 }
+
