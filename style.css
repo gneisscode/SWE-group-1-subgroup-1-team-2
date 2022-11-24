@@ -211,3 +211,23 @@ section {
   font-weight: 400;
   margin-bottom: 0.5rem;
 }
+.funmi {
+  width: 250px;
+  height: 250px;
+  font-size: 13px; font-style: italic;
+  background-color: grey;
+  border: 2px solid purple;
+  padding: 0.5em 0;
+  color: black;
+  line-height: 2em;
+}
+
+.funmi h4 {
+  text-align: center;
+  font-weight: 1000;
+  font-size: large;
+}
+
+.funmi ul{
+  padding: 0 2em;
+}
